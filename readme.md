@@ -28,5 +28,5 @@
 `https://github.com/tensorflow/nmt`
 
 # Attention权重可视化
-![西班牙语翻译](data/eng-spa-jpg/esta es mi v.jpg)
+![西班牙语翻译](data/eng-spa-jpg/ esta es mi v.jpg)
 ![中文翻译](data/chinese-eng-jpg/我已經完成我的作業。.jpg)
