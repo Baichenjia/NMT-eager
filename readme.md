@@ -30,8 +30,6 @@
 # Attention权重可视化
 西班牙语翻译
 ![西班牙语翻译](data/eng-spa-jpg/%20esta%20es%20mi%20v.jpg)
-
 中文翻译
 ![中文翻译](data/chinese-eng-jpg/我已經完成我的作業。.jpg)
-
 （中文无法再图片中现实）
