@@ -2,9 +2,9 @@
 
 参考：
 
-[1]neural machine translation by jointly learning to align and translate.(`https://arxiv.org/abs/1409.0473`)
+[1] neural machine translation by jointly learning to align and translate.(`https://arxiv.org/abs/1409.0473`)
 
-[2]具体细节参看：Tensorflow官方教程 `https://github.com/tensorflow/tensorflow/blob/r1.11/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb`
+[2] 具体细节参看：Tensorflow官方教程 `https://github.com/tensorflow/tensorflow/blob/r1.11/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb`
 
 使用Tensorflow eager execution，代码比基于Graph和Session的tf代码要简单很多。
 
@@ -28,5 +28,5 @@
 `https://github.com/tensorflow/nmt`
 
 # Attention权重可视化
-![西班牙语翻译](data/eng-spa-jpg/ esta es mi v.jpg)
+![西班牙语翻译](data/eng-spa-jpg/%20esta%20es%20mi%20v.jpg)
 ![中文翻译](data/chinese-eng-jpg/我已經完成我的作業。.jpg)
