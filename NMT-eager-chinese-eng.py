@@ -295,7 +295,7 @@ for epoch in range(EPOCHS):
         variables = encoder.variables + decoder.variables
         
         gradients = tape.gradient(loss, variables)
-        # gradients = tf.clip_by_global_norm(gradients, 5).  # 该步骤会报错
+        # gradients, _ = tf.clip_by_global_norm(gradients, 1)    # clip梯度
         optimizer.apply_gradients(zip(gradients, variables))
 
         # 测试
